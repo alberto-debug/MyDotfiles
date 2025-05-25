@@ -1,0 +1,17 @@
+[Colors:View]
+BackgroundNormal=#0E5F7F
+
+[General]
+TerminalApplication=/usr/bin/kitty
+
+[Icons]
+Theme=Colorful
+
+[KDE]
+widgetStyle=kvantum
+
+[UiSettings]
+ColorScheme=colors
+
+[Wallet]
+Enabled=false

@@ -1,6 +1,5 @@
 {
     "workbench.colorTheme": "Wallbash",
-    "window.menuBarVisibility": "toggle",
     "editor.fontSize": 12,
     "editor.scrollbar.vertical": "hidden",
     "editor.scrollbar.verticalScrollbarSize": 0,
@@ -15,8 +14,7 @@
     "terminal.explorerKind": "both",
     "terminal.sourceControlRepositoriesKind": "both",
     "telemetry.telemetryLevel": "off",
-    "workbench.activityBar.location": "top",
     "window.customTitleBarVisibility": "auto",
-    "workbench.sideBar.location": "right"
+    "workbench.iconTheme": "vscode-icons"
   }
   

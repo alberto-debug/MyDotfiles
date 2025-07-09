@@ -49,5 +49,11 @@
         "notifications"
       ]
     }
-  }
+  },
+  "menus.media.displayTime": false,
+  "menus.media.hideAlbum": false,
+  "theme.bar.buttons.workspaces.enableBorder": false,
+  "bar.workspaces.monitorSpecific": false,
+  "bar.workspaces.show_icons": false,
+  "bar.workspaces.show_numbered": true
 }

@@ -2,3 +2,33 @@ BraveSoftware
 BraveSoftware/
 BraveSoftware/
 BraveSoftware/
+JetBrains/
+VirtualBox/
+onlyoffice/
+spicetify/
+spotify/
+Code - OSS/
+
+# Ignorar arquivos de cache e temporários
+*.bak
+*.log
+*.tmp
+*~
+
+# Ignorar arquivos de sistema
+.cache/
+.local/
+.trash/
+.bash_history
+.zsh_history
+
+# Ignorar arquivos de interface gráfica
+baloorc
+baloofilerc
+dolphinrc
+kdeglobals
+imeapps.list
+pavucontrol.ini
+
+# Ignorar configurações de user-dirs (como Documentos, Downloads, etc)
+user-dirs.*
